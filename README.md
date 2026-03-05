@@ -1,16 +1,37 @@
-## Hi there 👋
+# Abu Bakar Huzail 👨‍💻
 
-<!--
-**abubernhzl/abubernhzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst | DFIR | Threat Hunting 🔎
 
-Here are some ideas to get you started:
+I work in Digital Forensics and Incident Response focusing on investigation,
+threat hunting, and detection engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Skills
+
+- Microsoft Sentinel
+- KQL Threat Hunting
+- DFIR Investigations
+- Phishing Analysis
+- Azure / Identity Investigations
+
+---
+
+## 🚀 Projects
+
+### DFIR KQL Threat Hunting Queries
+
+Collection of KQL queries used for threat hunting and DFIR investigations.
+
+🔗 https://github.com/abubernhzl/dfir-kql-hunting-queries
+
+---
+
+## 🔎 Areas of Interest
+
+- Incident Response
+- Digital Forensics
+- Threat Hunting
+- Threat Intelligence
+- Detection Engineering
+- Cloud Security
