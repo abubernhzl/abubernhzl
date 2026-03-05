@@ -5,6 +5,8 @@ Cybersecurity Analyst | DFIR | Threat Hunting 🔎
 I work in Digital Forensics and Incident Response focusing on investigation,
 threat hunting, and detection engineering.
 
+🔗 https://www.linkedin.com/in/abubakarhuzail/
+
 ---
 
 ## 🛡️ Skills
@@ -24,7 +26,7 @@ threat hunting, and detection engineering.
 Collection of KQL queries used for threat hunting and DFIR investigations.
 
 🔗 https://github.com/abubernhzl/dfir-kql-hunting-queries
-
+🔗 https://github.com/abubernhzl/dfir-tools
 ---
 
 ## 🔎 Areas of Interest
