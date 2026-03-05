@@ -26,6 +26,7 @@ threat hunting, and detection engineering.
 Collection of KQL queries used for threat hunting and DFIR investigations.
 
 🔗 https://github.com/abubernhzl/dfir-kql-hunting-queries
+
 🔗 https://github.com/abubernhzl/dfir-tools
 ---
 
