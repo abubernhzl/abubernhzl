@@ -21,13 +21,11 @@ threat hunting, and detection engineering.
 
 ## 🚀 Projects
 
-### DFIR KQL Threat Hunting Queries
+### 🔵 Blue Arsenal
+Cloud-first DFIR & Threat Hunting arsenal — cheatsheets, KQL queries, 
+Sigma rules, attack paths and detection engineering.
 
-Collection of KQL queries used for threat hunting and DFIR investigations.
-
-🔗 https://github.com/abubernhzl/dfir-kql-hunting-queries
-
-🔗 https://github.com/abubernhzl/dfir-tools
+🔗 https://github.com/abubernhzl/blue-arsenal
 
 
 ---
